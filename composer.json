@@ -1,0 +1,17 @@
+{
+    "name": "marsrav/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mars",
+            "email": "88538757+Mars-Rav@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
